@@ -4,6 +4,16 @@
   "libraries": {
     "manager": [],
     "managerResolved": [],
-    "git": []
+    "git": [
+      {
+        "name": "PCA9539-master",
+        "url": "https://github.com/NORVIControllers/NORVI-X-Version-02",
+        "commit": "89bd31031d55013365495e0e631f2c4dcf75003d",
+        "contentSha256": "429508b88a0a147c6e1bff23433d5a2ef52551220656109432508a3e688cb243",
+        "subpath": "libraries/PCA9539-master",
+        "scope": "shared",
+        "format": "legacy"
+      }
+    ]
   }
 }
